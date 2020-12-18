@@ -1,20 +1,23 @@
-- title: Social Good!
-  event: MLH Fellowship Explorer Sprint 5
+- title: Search Your Favourite movie here!
+  event: MLH Fellowship Explorer Sprint 1
   date: Fall 2020 - Batch 1
+  link: <a href="http://keshavagrawal.me/moviesInfo/">
+  
+- title: Note Taker
+  event: MLH Fellowship Explorer Sprint 2
+  date: Fall 2020 - Batch 1
+  link: <a href="http://keshavagrawal.me/noteTaker/">
 
-- title: Developer Tools!
+- title: Color game!
+  event: MLH Fellowship Explorer Sprint 3
+  date: Fall 2020 - Batch 1
+  link: <a href="http://keshavagrawal.me/noteTaker/">
+
+- title: Fun Game
   event: MLH Fellowship Explorer Sprint 4
   date: Fall 2020 - Batch 1
 
-- title: Machine Learning Project
-  event: MLH Fellowship Explorer Sprint 3
-  date: Fall 2020 - Batch 1
-
-- title: Fun Game
-  event: MLH Fellowship Explorer Sprint 2
-  date: Fall 2020 - Batch 1
-
 - title: Flash Card Generator
-  event: MLH Fellowship Explorer Sprint 1
+  event: MLH Fellowship Explorer Sprint 5
   date: Fall 2020 - Batch 1
   page-name: sprint1
